@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Cloud DevOps Engineer & building CI/CD Pipelines<br>👯 I’m looking to collaborate on DevOps Projects<br>🌱 I’m currently learning AWS CI/CD Pipeline which comprises of CodeCommit, CodeBuild, CodeDeploy, CodePipeline, S3, EC2, Cloudwatch, IAM and Terraform <br>🤝 💬 I regularly write articles on https://medium.com/@writetoritika<br>⚡ Fun fact I am a super woman :)
+🔭 I’m currently working as Cloud DevOps Engineer & building CI/CD Pipelines<br>👯 I’m looking to collaborate on DevOps Projects<br>🌱 I’m currently learning AWS CI/CD Pipeline which comprises of CodeCommit, CodeBuild, CodeDeploy, CodePipeline, S3, EC2, Cloudwatch, IAM and Terraform <br>🤝 💬 I regularly write articles on https://medium.com/@writetoritika<br>⚡
 
 
 ## 🌐 Socials:
